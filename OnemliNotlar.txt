@@ -1,0 +1,7 @@
+﻿API sisteminde bir API creation vardır... Bir de API consuming vardır : 
+
+
+API Creation : Bir projenin bilgilerini dısarı acmak icin bir API projesi yaratmaktır...
+
+
+API Consuming : Ulasmak istediginiz proje bilgilerine ulasabilmek adına veya oradan gelen cevaba ulasabilmek icin o taraf tarafından yazılmıs olan bir API'ı kullanmaktır...
